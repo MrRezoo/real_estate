@@ -27,6 +27,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1615495374" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1615495373" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1pSypCGh5OnOaKeGHgobW2aFThm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -157,7 +180,7 @@
       <workItem from="1615377198409" duration="3273000" />
       <workItem from="1615491552235" duration="16000" />
       <workItem from="1615491570872" duration="3000" />
-      <workItem from="1615491584208" duration="3403000" />
+      <workItem from="1615491584208" duration="3722000" />
     </task>
     <servers />
   </component>
