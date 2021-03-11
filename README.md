@@ -1,6 +1,6 @@
 ## About Project
 
-Hi guys! This is **[Mr.Rezoo](https://rezoo.ir)**  , this is simple real estate project with pure python .
+Hi guys! This is **[Mr.Rezoo](https://rezoo.ir)**  , this is simple comman-line real estate project with pure python .
 
 ### Reference
 
